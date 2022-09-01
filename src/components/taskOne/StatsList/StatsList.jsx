@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { StyledStatsList, StyledQuantity } from 'components/StatsList/StatsList.styled';
+import { StyledStatsList, StyledQuantity } from 'components/taskOne/StatsList/StatsList.styled';
 
 
 export const StatsList = ({ stats: { followers, views, likes } }) => {

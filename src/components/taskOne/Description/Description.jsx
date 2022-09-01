@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { StyledDescription, StyledName } from "components/Description/Description.styled";
+import { StyledDescription, StyledName } from "components/taskOne/Description/Description.styled";
 
 
 export const Description = ({ username, tag, location, avatar, }) => {
