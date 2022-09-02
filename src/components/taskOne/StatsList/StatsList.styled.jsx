@@ -25,6 +25,7 @@ export const StyledStatsList = styled.ul`
 `;
 
 export const StyledQuantity = styled.span`
+    margin-top: ${p => p.theme.space[2]}px;
     color: ${p => p.theme.colors.black};
     font-weight: ${p => p.theme.fontWeights.bold};
 `;
